@@ -1,3 +1,2 @@
 # PetApplication-assignment
-First Assignment for C# course
-Simple console application 
+First Assignment for C# course.

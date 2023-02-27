@@ -1,2 +1,2 @@
 # PetApplication-assignment
-First Assignment for C# course.
+First Assignment for a C# course.
